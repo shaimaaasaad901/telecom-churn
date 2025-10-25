@@ -16,3 +16,4 @@ Try running the following commands:
 # ass-telecom-churn
 # TELECOM-CHURN
 # TELECOM-CHURN
+# telecom-churn
